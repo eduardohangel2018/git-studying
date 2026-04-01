@@ -1,6 +1,7 @@
 ## Script to Change git username and e-mail
 
-At the end of this script you will change your git username and email. And then, you will forget your saved credentials too.
+I`ve been using this script to send some learning codes from work enviroment.
+This script you will change your git username and email to your personal. You will forget your saved credentials too and can save again.
 
 ### Git commands study
 

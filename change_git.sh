@@ -9,7 +9,7 @@ COMPANY_EMAIL="username@company.com.br"
 # Forget the current Git credentials
 git config --global --unset credential.helper
 
-echo "Configuring personal Git username and email..."
+# echo "Configuring personal Git username and email..."
 git config --global user.name $PERSONAL_USER
 git config --global user.email $PERSONAL_EMAIL
 
